@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DropMms Pro</string>
+    <string name="tagline">Authorized Curated Vault</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_premium">Premium</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_admin">Owner</string>
+    <string name="cd_hero_banner">DropMms Pro atmospheric backdrop</string>
+    <string name="cd_compliance_shield">Compliance and verification shield</string>
+    <string name="cd_content_thumbnail">Content preview thumbnail</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_search">Search catalog</string>
+    <string name="cd_bookmark">Toggle bookmark</string>
+    <string name="cd_report">Report or request removal</string>
+    <string name="cd_share_referral">Share referral link</string>
+</resources>

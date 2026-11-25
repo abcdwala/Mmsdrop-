@@ -1,0 +1,6 @@
+{
+  "name": "DropMms Pro",
+  "description": "Telegram-authenticated media platform with curated catalog, premium memberships, compliance workflows, and owner administration powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
